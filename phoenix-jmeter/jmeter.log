@@ -1,0 +1,70 @@
+2015/10/20 14:51:20 INFO  - jmeter.util.JMeterUtils: Setting Locale to zh_CN 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.PhoenixJmeter: Loading user properties from: D:\workspace\phoenix-jmeter\bin\user.properties 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.PhoenixJmeter: Loading system properties from: D:\workspace\phoenix-jmeter\bin\system.properties 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.PhoenixJmeter: Copyright (c) 1998-2015 The Apache Software Foundation 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.PhoenixJmeter: Version 2.13 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.PhoenixJmeter: java.version=1.8.0_11 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.PhoenixJmeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.PhoenixJmeter: os.name=Windows 8 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.PhoenixJmeter: os.arch=amd64 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.PhoenixJmeter: os.version=6.2 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.PhoenixJmeter: file.encoding=UTF-8 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.PhoenixJmeter: Default Locale=中文 (中国) 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.PhoenixJmeter: JMeter  Locale=中文 (中国) 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.PhoenixJmeter: JMeterHome=D:\workspace\phoenix-jmeter 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.PhoenixJmeter: user.dir  =D:\workspace\phoenix-jmeter 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.PhoenixJmeter: PWD       =D:\workspace\phoenix-jmeter 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.PhoenixJmeter: IP: 172.19.253.2 Name: mfy FullName: 172.19.253.2 
+2015/10/20 14:51:20 INFO  - jmeter.services.FileServer: Default base='D:\workspace\phoenix-jmeter' 
+2015/10/20 14:51:20 INFO  - jmeter.services.FileServer: Set new base='D:\workspace\phoenix-jmeter\bin' 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.SaveService: Using SaveService properties file encoding UTF-8 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.SaveService: Using SaveService properties file version 1656252 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.SaveService: Using SaveService properties version 2.8 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.SaveService: All converter versions present and correct 
+2015/10/20 14:51:20 INFO  - org.phoenix.jmeter.core.SaveService: Loading file: D:\workspace\phoenix-jmeter\bin\phoenixjava.jmx 
+2015/10/20 14:51:21 INFO  - org.phoenix.jmeter.core.PhoenixJmeter: Creating summariser <summary> 
+2015/10/20 14:51:21 INFO  - jmeter.engine.StandardJMeterEngine: Listeners will be started after enabling running version 
+2015/10/20 14:51:21 INFO  - jmeter.engine.StandardJMeterEngine: To revert to the earlier behaviour, define jmeterengine.startlistenerslater=false 
+2015/10/20 14:51:21 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2015/10/20 14:51:21 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2015/10/20 14:51:21 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2015/10/20 14:51:21 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2015/10/20 14:51:21 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2015/10/20 14:51:21 WARN  - jmeter.engine.util.CompoundVariable: Did not find any functions 
+2015/10/20 14:51:21 INFO  - jmeter.protocol.java.sampler.JavaSampler: Created class: org.phoenix.jmeter.cases.HttpBaseCase. Uses tearDownTest: false 
+2015/10/20 14:51:21 INFO  - org.phoenix.jmeter.core.PhoenixJmeter: 正在运行的测试 (1445323881073) 
+2015/10/20 14:51:21 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : jDemoThreadGroup 
+2015/10/20 14:51:21 INFO  - jmeter.engine.StandardJMeterEngine: Starting 3 threads for group jDemoThreadGroup. 
+2015/10/20 14:51:21 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2015/10/20 14:51:21 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 3 ramp-up 0 perThread 0.0 delayedStart=false 
+2015/10/20 14:51:21 INFO  - jmeter.threads.JMeterThread: jmeterthread.startearlier=true (see jmeter.properties) 
+2015/10/20 14:51:21 INFO  - jmeter.threads.JMeterThread: Running PostProcessors in forward order 
+2015/10/20 14:51:21 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2015/10/20 14:51:21 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2015/10/20 14:51:21 INFO  - jmeter.threads.JMeterThread: Thread started: jDemoThreadGroup 1-1 
+2015/10/20 14:51:21 INFO  - jmeter.threads.JMeterThread: Thread started: jDemoThreadGroup 1-2 
+2015/10/20 14:51:21 INFO  - jmeter.threads.JMeterThread: Thread started: jDemoThreadGroup 1-3 
+2015/10/20 14:51:21 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Cannot find .className property for htmlParser, using default 
+2015/10/20 14:51:21 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is  
+2015/10/20 14:51:21 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is  
+2015/10/20 14:51:21 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is  
+2015/10/20 14:51:21 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is  
+2015/10/20 14:51:21 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2015/10/20 14:51:21 INFO  - jmeter.protocol.http.sampler.HTTPHCAbstractImpl: Local host = mfy 
+2015/10/20 14:51:21 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: HTTP request retry count = 0 
+2015/10/20 14:51:21 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: Setting up HTTPS TrustAll scheme 
+2015/10/20 14:51:21 INFO  - jmeter.util.JsseSSLManager: Using default SSL protocol: TLS 
+2015/10/20 14:51:21 INFO  - jmeter.util.JsseSSLManager: SSL session context: per-thread 
+2015/10/20 14:51:21 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2015/10/20 14:51:21 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2015/10/20 14:51:21 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2015/10/20 14:51:21 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2015/10/20 14:51:22 INFO  - jmeter.threads.JMeterThread: Thread is done: jDemoThreadGroup 1-3 
+2015/10/20 14:51:22 INFO  - jmeter.threads.JMeterThread: Thread finished: jDemoThreadGroup 1-3 
+2015/10/20 14:51:22 INFO  - jmeter.threads.JMeterThread: Thread is done: jDemoThreadGroup 1-2 
+2015/10/20 14:51:22 INFO  - jmeter.threads.JMeterThread: Thread finished: jDemoThreadGroup 1-2 
+2015/10/20 14:51:23 INFO  - jmeter.threads.JMeterThread: Thread is done: jDemoThreadGroup 1-1 
+2015/10/20 14:51:23 INFO  - jmeter.threads.JMeterThread: Thread finished: jDemoThreadGroup 1-1 
+2015/10/20 14:51:23 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2015/10/20 14:51:23 INFO  - jmeter.reporters.Summariser: summary =     15 in   2.5s =    6.1/s Avg:   320 Min:    20 Max:   741 Err:     6 (40.00%) 
